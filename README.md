@@ -5,4 +5,6 @@ The ultimate goal of this project is creating a GUI for the user to sign up or s
 The following api's are needed to make the program functioning:<br />
   a. api from https://sheety.co/ which was used to interact data from your google sheet account.<br />
   b. two api from tequila.kiwi.com was needed, one was for converting city name into airport IATA Code and the other api is need to search for the ticket info.<br />
-  c. you will also need to get an api from https://www.twilio.com/docs, so you can get text message notifications sent to your phone.
+  c. you will also need to get an api from https://www.twilio.com/docs, so you can get text message notifications sent to your phone.<br />
+
+You may see the demonstrations from the two photos.
